@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "潜在的なアイ",
+  "base_artist": "13.3g",
+  "createdAt": "2026-02-07T21:04:22.250633Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "潜在的なアイ",
+      "artist": "13.3g",
+      "has_synced": false,
+      "path": "select/pl_01_潜在的なアイ_13.3g.txt"
+    }
+  ]
+}
