@@ -1,4 +1,4 @@
-# 13.3g – 潜在的なアイ (Instrumental) - Unseen Ai (Instrumental)
+# 13.3g – 潜在的なアイ
 
 > **歌詞登録ステータス：同期歌詞あり**
 
