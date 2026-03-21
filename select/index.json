@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "潜在的なアイ (Instrumental) - Unseen Ai (Instrumental)",
+  "base_track": "潜在的なアイ",
   "base_artist": "13.3g",
-  "createdAt": "2026-03-19T08:35:49.409468Z",
+  "createdAt": "2026-03-21T00:24:15.775269Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -19,6 +19,15 @@
       "artist": "13.3g",
       "has_synced": false,
       "path": "select/pl_01_潜在的なアイ_13.3g.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "潜在的なアイ",
+      "artist": "13.3g",
+      "has_synced": true,
+      "path": "select/localdb_01_潜在的なアイ_13.3g.lrc",
+      "repo_name": "LeK0WZqC-As"
     }
   ]
 }
